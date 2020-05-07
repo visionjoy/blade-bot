@@ -2,7 +2,7 @@
 
 Quick bot script for posting Blades in the Dark generated stuff.  Not
 really very specifically Blades in the Dark.  The output is currently 
-at https://twitter.com/doskvolscores.
+at https://twitter.com/doskvolscoreskr.
 
 Stuff I used:
 
